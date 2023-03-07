@@ -1,0 +1,3 @@
+[submodule "thirdparty/valve-bsp-parser"]
+	path = thirdparty/valve-bsp-parser
+	url = https://github.com/ReactiioN1337/valve-bsp-parser
